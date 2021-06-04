@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    image-rendering: auto;
+    mask-image: -moz-element();
+    padding: 20px 20px 20px 20px
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+html {
+    background-image: url('html/images/hema.jpg');
+    background-size: cover;
+}
+
+.index-h2 {
+    color: green;
+}
+
+#index-h2 {
+    color: aliceblue;
+}
+
+.hema-h1 {
+    text-align: center;
+}

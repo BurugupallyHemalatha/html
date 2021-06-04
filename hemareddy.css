@@ -1,0 +1,26 @@
+html {
+    background-color: blueviolet;
+    border: 5px;
+    border-style: solid;
+    border-color: rgb(129, 91, 165);
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(../html/images.html/books.jpg);
+    background-size: cover;
+    font-style: inherit;
+}
+
+.python-h1 {
+    text-align: center;
+    font-size: larger;
+    font-style: italic;
+}
+
+.python-p {
+    text-align: top;
+}
+
+.dive-im {
+    text-shadow: 20px;
+    text-align: center;
+    break-after: inherit;
+}
